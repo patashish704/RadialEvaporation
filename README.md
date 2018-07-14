@@ -4,7 +4,7 @@
  If you found this code helpful, please cite the following journal article.
 
  A. Pathak, M. Raessi, Steady-state and transient solutions to drop evaporation 
- in a finite domain: Alternative benchmarks to the d2 law, Int. J. Heat Mass Transfer (2018),
+ in a finite domain: Alternative benchmarks to the d2 law, Int. J. Heat Mass Transfer 127 (2018) 1147-1158,
  https://doi.org/10.1016/j.ijheatmasstransfer.2018.06.071
 
  The details of the governing equations and numerical descritization are
